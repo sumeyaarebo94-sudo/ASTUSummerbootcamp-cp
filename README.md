@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -19,6 +20,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/3760-maximum-substrings-with-distinct-start) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
