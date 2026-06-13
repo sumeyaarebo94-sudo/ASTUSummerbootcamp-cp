@@ -19,5 +19,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3110-score-of-a-string](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
