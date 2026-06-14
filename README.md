@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
