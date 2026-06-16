@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0049-group-anagrams) |
+| [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
