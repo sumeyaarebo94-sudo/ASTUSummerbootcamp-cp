@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0049-group-anagrams) |
 | [0463-island-perimeter](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0049-group-anagrams) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0037-sudoku-solver) |
 | [0463-island-perimeter](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0867-transpose-matrix) |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0463-island-perimeter) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
