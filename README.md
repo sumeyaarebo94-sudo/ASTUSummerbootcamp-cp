@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0463-island-perimeter) |
+| [0594-longest-harmonious-subsequence](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0594-longest-harmonious-subsequence) |
 | [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0594-longest-harmonious-subsequence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0594-longest-harmonious-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -127,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0037-sudoku-solver) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
