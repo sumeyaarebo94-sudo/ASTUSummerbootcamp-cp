@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0463-island-perimeter) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -83,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bit Manipulation
 |  |
