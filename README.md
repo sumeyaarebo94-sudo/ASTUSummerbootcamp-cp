@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0643-maximum-average-subarray-i) |
 ## Counting
 |  |
 | ------- |
