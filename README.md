@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0463-island-perimeter) |
+| [0475-heaters](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -83,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0475-heaters) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0594-longest-harmonious-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2545-sort-the-students-by-their-kth-score) |
