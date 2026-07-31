@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0594-longest-harmonious-subsequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0594-longest-harmonious-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0455-assign-cookies) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Monotonic Stack
