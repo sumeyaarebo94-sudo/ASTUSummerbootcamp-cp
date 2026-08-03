@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0867-transpose-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0917-reverse-only-letters) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0475-heaters) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sumeyaarebo94-sudo/ASTUSummerbootcamp-cp/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
